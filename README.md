@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
