@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0047-permutations-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0075-sort-colors) |
 ## Backtracking
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
