@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0496-next-greater-element-i](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0125-valid-palindrome) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0007-reverse-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -115,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
