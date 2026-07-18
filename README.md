@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0146-lru-cache) |
+| [0876-middle-of-the-linked-list](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
