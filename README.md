@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
