@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0622-design-circular-queue) |
 | [1260-shift-2d-grid](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
@@ -181,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0622-design-circular-queue) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
