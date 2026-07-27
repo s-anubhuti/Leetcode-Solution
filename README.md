@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
