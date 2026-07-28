@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0047-permutations-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0622-design-circular-queue) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0173-binary-search-tree-iterator) |
 ## Simulation
 |  |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
