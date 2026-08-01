@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0584-find-customer-referee) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1280-students-and-examinations](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/1280-students-and-examinations) |
+| [1393-capital-gainloss](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/1393-capital-gainloss) |
 | [1661-average-time-of-process-per-machine](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/1661-average-time-of-process-per-machine) |
 ## Array
 |  |
