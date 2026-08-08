@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0344-reverse-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0044-wildcard-matching) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
