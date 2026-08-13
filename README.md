@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0344-reverse-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
@@ -259,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
