@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [1140-stone-game-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0095-unique-binary-search-trees-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0173-binary-search-tree-iterator) |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
