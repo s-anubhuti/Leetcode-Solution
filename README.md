@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0460-lfu-cache](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -166,11 +168,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0460-lfu-cache) |
 ## Tree
 |  |
 | ------- |
