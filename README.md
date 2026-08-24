@@ -311,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
