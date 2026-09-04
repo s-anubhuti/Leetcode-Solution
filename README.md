@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [1140-stone-game-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
