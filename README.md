@@ -193,10 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0173-binary-search-tree-iterator) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0173-binary-search-tree-iterator) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Simulation
 |  |
 | ------- |
