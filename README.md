@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0047-permutations-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0125-valid-palindrome) |
