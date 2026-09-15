@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0072-edit-distance) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0146-lru-cache) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
