@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0622-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/1140-stone-game-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0460-lfu-cache](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
