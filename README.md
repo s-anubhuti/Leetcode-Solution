@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0047-permutations-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 ## Sorting
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/s-anubhuti/Leetcode-Solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
